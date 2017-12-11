@@ -149,5 +149,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "IDEAS"
+    title = ""
     subtitle = ""
