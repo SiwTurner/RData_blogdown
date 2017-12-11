@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "R DATA ANALYST"
+title = "datanlystr"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -72,7 +72,7 @@ paginate = 10
     style = "blue"
 
    
-    email = "your@email.com"
+    email = "siw.turner@email.com"
 
     #about_us = "<p>Silas Turner</p>"
     #copyright = ""
@@ -99,7 +99,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<b class="hidden-xs" style="font-size:20px;text-align:right">SILAS TURNER</b>"""
+    text = """<b class="hidden-xs" style="font-size:18px;text-align:right">SILAS TURNER</b>"""
       #<p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       #<a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       #</p>
@@ -149,5 +149,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = ""
+    title = "IDEAS"
     subtitle = ""
